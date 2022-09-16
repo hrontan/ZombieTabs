@@ -1,0 +1,17 @@
+{
+	"appDesc": {
+		"message": "ZombieTabsは特定のページを起動し続ける拡張機能です。拡張機能が有効な状態で、設定されたURL(先頭からの部分一致)のタブが閉じられた場合、そのタブを復活させます。"
+	},
+	"option_top":{
+		"message": "開くURLの一覧"
+	},
+	"option_attension":{
+		"message": "注意: URLは先頭からの部分一致で判定されます。URLがリダイレクトされる場合、無制限にタブが増殖します。"
+	},
+	"option1_info":{
+		"message": "各行に一つのURLを記述してください"
+	},
+	"option_save":{
+		"message": "保存"
+	}
+}

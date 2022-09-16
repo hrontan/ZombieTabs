@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>ZombieTabs Options</title>
+</head>
+
+<body>
+	<style>
+		h1 {
+			font-size: 14px;
+			margin-left: 10px;
+			line-height: 20px;
+			font-weight: bolder;
+		}
+
+		span {
+			font-size: 14px;
+			margin-left: 10px;
+			line-height: 20px;
+		}
+
+		form {
+			height: 420px;
+			width: 600px;
+		}
+		
+		#attension{
+			color: red;
+			font-size: 12px;
+		}
+	</style>
+
+	<form id='form'>
+		<h1>__MSG_option_top__</h1>
+		<span>__MSG_option1_info__</span>
+		<br/>
+		<span id="attension">(__MSG_option_attension__)</span>
+		<textarea id="urls" rows="20" cols="80" placeholder="https://www.google.com"></textarea>
+
+		<button id="save" >__MSG_option_save__</button>		
+	</form>
+
+	<script src="options.js"></script>
+</body>
+
+</html>

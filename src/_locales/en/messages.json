@@ -1,0 +1,17 @@
+{
+	"appDesc": {
+		"message": "ZombieTabs is a chrome extension to keeps certain website opened."
+	},
+	"option_top":{
+		"message": "List of URLs to open."
+	},
+	"option_attension":{
+		"message": "Attension: URLs are determined by a partial match from the beginning. If a URL will be redirected, an unlimited number of tabs will proliferate."
+	},
+	"option1_info":{
+		"message": "One URL per one line."
+	},
+	"option_save":{
+		"message": "Save"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"appDesc": {
+		"message": "ZombieTabs是一个chrome扩展，用于保持某些网站打开。如果该扩展被启用，并且有配置的URL（从头开始部分匹配）的标签被关闭，它将重新打开选项卡。"
+	},
+	"option_top":{
+		"message": "要打开的URL列表"
+	},
+	"option_attension":{
+		"message": "注意: URL从一开始就由部分匹配来决定。如果一个URL将被重定向，那么无限数量的标签将激增。"
+	},
+	"option1_info":{
+		"message": "在每一行描述一个URL"
+	},
+	"option_save":{
+		"message": "保存"
+	}
+}
